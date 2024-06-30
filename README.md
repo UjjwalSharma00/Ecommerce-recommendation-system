@@ -4,7 +4,7 @@ A recommendation system will help businesses improve their shopper's experience 
 
 The recommendation system, designed below is based on the journey of a new customer from the time he/she lands on the business’s website for the first time to when he/she makes repeat purchases. 
 
-The data sets are from
+### Data sets
 1. Amazon product ratings by multipe users, Data Source: https://www.kaggle.com/skillsmuggler/amazon-ratings
 2. Home Depot products with descriptions, Data Source: https://www.kaggle.com/c/home-depot-product-search-relevance/data
 
